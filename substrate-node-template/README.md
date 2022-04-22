@@ -1,5 +1,10 @@
 # Substrate Node Template
 
+## 截图
+
+![](./assets/1.png)
+![](./assets/2.png)
+
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
 ## Getting Started
