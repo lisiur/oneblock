@@ -4,6 +4,7 @@
 
 ![](./assets/1.png)
 ![](./assets/2.png)
+![](./assets/3.png)
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
